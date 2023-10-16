@@ -103,7 +103,7 @@ button {
   margin-top: 11%;
 }
 
-botton:hover {
+button:hover {
   cursor: pointer;
   color: white;
   background-color: #9DE041;
